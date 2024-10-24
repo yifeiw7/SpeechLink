@@ -1,0 +1,2954 @@
+[
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "four",
+        "audio_path": "audio_data/M1_S2_0126.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "rich",
+        "audio_path": "audio_data/M1_S2_0200.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "cope",
+        "audio_path": "audio_data/M1_S2_0133.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "pay",
+        "audio_path": "audio_data/M4_S2_0207.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "mitten",
+        "audio_path": "audio_data/M2_S2_0158.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "bug",
+        "audio_path": "audio_data/M3_S2_0024.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "sway",
+        "audio_path": "audio_data/F4_S1_0132.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "but he always answers, \"Banana oil!\"",
+        "audio_path": "audio_data/M1_S1_0041.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "She wore warm, fleecy, woolen overalls.",
+        "audio_path": "audio_data/M3_S2_0351.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "spark",
+        "audio_path": "audio_data/F1_S1_0052.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "rain",
+        "audio_path": "audio_data/M4_S2_0115.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "bubble",
+        "audio_path": "audio_data/M3_S2_0061.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "read [as in \"I can read\"]",
+        "audio_path": "audio_data/M4_S1_0096.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "we're",
+        "audio_path": "audio_data/F4_S1_0196.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "no",
+        "audio_path": "audio_data/F4_S2_0221.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "feed",
+        "audio_path": "audio_data/M1_S2_0020.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "farm",
+        "audio_path": "audio_data/M2_S1_0010.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "slip",
+        "audio_path": "audio_data/M5_S1_0031.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "side",
+        "audio_path": "audio_data/M1_S2_0150.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Nothing is as offensive as innocence.",
+        "audio_path": "audio_data/M1_S2_0113.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "juliet",
+        "audio_path": "audio_data/M1_S2_0199.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "lip",
+        "audio_path": "audio_data/M1_S2_0090.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "kilo",
+        "audio_path": "audio_data/F3_S3_0070.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "knot",
+        "audio_path": "audio_data/F4_S2_0212.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "lima",
+        "audio_path": "audio_data/M3_S2_0349.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "When he speaks, his voice is just a bit cracked and quivers a trifle.",
+        "audio_path": "audio_data/F4_S1_0100.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "warm",
+        "audio_path": "audio_data/M3_S2_0017.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "tile",
+        "audio_path": "audio_data/M1_S2_0064.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "air",
+        "audio_path": "audio_data/M2_S1_0104.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "alpha",
+        "audio_path": "audio_data/M4_S2_0099.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "xxx",
+        "audio_path": "audio_data/F3_S3_0040.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "share",
+        "audio_path": "audio_data/M5_S1_0106.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "hat",
+        "audio_path": "audio_data/M2_S2_0214.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "charlie",
+        "audio_path": "audio_data/F4_S1_0134.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Aluminum silverware can often be flimsy.",
+        "audio_path": "audio_data/M2_S2_0098.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Before Thursday's exam, review every formula.",
+        "audio_path": "audio_data/M1_S2_0232.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "floor",
+        "audio_path": "audio_data/M4_S1_0027.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "mitten",
+        "audio_path": "audio_data/F4_S2_0098.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "tie",
+        "audio_path": "audio_data/M4_S2_0136.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "glitter",
+        "audio_path": "audio_data/F3_S3_0085.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "store",
+        "audio_path": "audio_data/M1_S2_0009.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "snoop",
+        "audio_path": "audio_data/M2_S1_0200.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "sleep",
+        "audio_path": "audio_data/M4_S2_0260.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "dark",
+        "audio_path": "audio_data/M3_S2_0332.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "top",
+        "audio_path": "audio_data/M2_S2_0192.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "Two other cases also were under advisement.",
+        "audio_path": "audio_data/F4_S1_0184.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "rich",
+        "audio_path": "audio_data/M3_S2_0321.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "spark",
+        "audio_path": "audio_data/M1_S1_0088.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "goose",
+        "audio_path": "audio_data/F3_S3_0185.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "feed",
+        "audio_path": "audio_data/M2_S1_0116.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "He will allow a rare lie.",
+        "audio_path": "audio_data/M4_S2_0182.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "knew",
+        "audio_path": "audio_data/M4_S2_0036.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "My sister made the flowered curtains.",
+        "audio_path": "audio_data/M3_S2_0144.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "torn",
+        "audio_path": "audio_data/M2_S1_0030.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "november",
+        "audio_path": "audio_data/M2_S2_0143.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "The box contained three sweaters.",
+        "audio_path": "audio_data/M2_S2_0131.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "knew",
+        "audio_path": "audio_data/M4_S1_0051.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "one",
+        "audio_path": "audio_data/M4_S2_0082.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "sigh",
+        "audio_path": "audio_data/M4_S2_0200.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "ate",
+        "audio_path": "audio_data/M4_S2_0234.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "pot",
+        "audio_path": "audio_data/F4_S1_0142.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "tread",
+        "audio_path": "audio_data/F3_S3_0059.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "sitting",
+        "audio_path": "audio_data/M3_S2_0316.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "pit",
+        "audio_path": "audio_data/F3_S3_0020.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "When he speaks, his voice is just a bit cracked and quivers a trifle.",
+        "audio_path": "audio_data/F1_S1_0132.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "mere",
+        "audio_path": "audio_data/M4_S2_0254.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "pile",
+        "audio_path": "audio_data/M3_S2_0226.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "ship",
+        "audio_path": "audio_data/M4_S1_0125.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "bit",
+        "audio_path": "audio_data/M4_S2_0297.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "sort",
+        "audio_path": "audio_data/F3_S3_0120.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "geese",
+        "audio_path": "audio_data/F3_S3_0013.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "hitting",
+        "audio_path": "audio_data/M2_S2_0227.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "bat",
+        "audio_path": "audio_data/M4_S1_0071.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "briar",
+        "audio_path": "audio_data/F4_S2_0008.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Mother sews yellow gingham aprons.",
+        "audio_path": "audio_data/M4_S2_0216.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "slip",
+        "audio_path": "audio_data/F4_S1_0143.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "trait",
+        "audio_path": "audio_data/F4_S1_0013.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "park",
+        "audio_path": "audio_data/M3_S2_0261.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "share",
+        "audio_path": "audio_data/F4_S1_0099.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "fitting",
+        "audio_path": "audio_data/F4_S2_0087.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "the",
+        "audio_path": "audio_data/M2_S1_0027.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "trouble",
+        "audio_path": "audio_data/M5_S1_0075.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "tip",
+        "audio_path": "audio_data/F1_S1_0122.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "night",
+        "audio_path": "audio_data/F3_S3_0011.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "beta",
+        "audio_path": "audio_data/M4_S2_0095.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "he dresses himself in an ancient black frock coat,",
+        "audio_path": "audio_data/M3_S2_0100.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "hem",
+        "audio_path": "audio_data/M2_S2_0123.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "bitten",
+        "audio_path": "audio_data/M3_S2_0308.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "swore",
+        "audio_path": "audio_data/M5_S1_0005.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "storm",
+        "audio_path": "audio_data/F1_S1_0129.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Well, he is nearly ninety-three years old;",
+        "audio_path": "audio_data/M3_S2_0013.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "read [as in \"I can read\"]",
+        "audio_path": "audio_data/M5_S1_0038.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "cycle",
+        "audio_path": "audio_data/M4_S2_0230.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "brawn",
+        "audio_path": "audio_data/M2_S2_0132.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "You wished to know all about my grandfather.",
+        "audio_path": "audio_data/M5_S1_0062.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "One validated acts of school districts.",
+        "audio_path": "audio_data/F4_S2_0058.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "light",
+        "audio_path": "audio_data/M1_S2_0155.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "glow",
+        "audio_path": "audio_data/M2_S1_0086.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "cake",
+        "audio_path": "audio_data/M3_S2_0363.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "read [as in \"I can read\"]",
+        "audio_path": "audio_data/M3_S2_0055.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "slay",
+        "audio_path": "audio_data/M1_S2_0123.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "no",
+        "audio_path": "audio_data/M1_S2_0114.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "sigh",
+        "audio_path": "audio_data/M1_S2_0161.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "left",
+        "audio_path": "audio_data/M1_S1_0051.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "rock",
+        "audio_path": "audio_data/F4_S1_0190.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "up",
+        "audio_path": "audio_data/M2_S1_0097.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "back",
+        "audio_path": "audio_data/F3_S3_0027.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "tie",
+        "audio_path": "audio_data/M1_S2_0081.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "back",
+        "audio_path": "audio_data/M2_S1_0221.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "The job provides many benefits.",
+        "audio_path": "audio_data/F4_S2_0159.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "dot",
+        "audio_path": "audio_data/M2_S1_0164.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "whisky",
+        "audio_path": "audio_data/F3_S3_0141.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "sip",
+        "audio_path": "audio_data/M2_S1_0091.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "pat",
+        "audio_path": "audio_data/F4_S1_0104.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "mere",
+        "audio_path": "audio_data/M1_S2_0028.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "I just try to do my best.",
+        "audio_path": "audio_data/M3_S2_0194.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "Except in the winter when the ooze or snow or ice prevents,",
+        "audio_path": "audio_data/F4_S1_0091.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "start",
+        "audio_path": "audio_data/M1_S2_0257.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "corn",
+        "audio_path": "audio_data/M4_S1_0115.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "bit",
+        "audio_path": "audio_data/F4_S2_0192.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "sentence",
+        "prompt": "Help Greg to pick a peck of potatoes.",
+        "audio_path": "audio_data/F3_S3_0199.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "for",
+        "audio_path": "audio_data/F1_S1_0042.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "down",
+        "audio_path": "audio_data/M2_S1_0084.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "rake",
+        "audio_path": "audio_data/F1_S1_0037.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "There is a treehouse up above.",
+        "audio_path": "audio_data/M4_S2_0295.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "he dresses himself in an ancient black frock coat,",
+        "audio_path": "audio_data/M4_S2_0083.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "jagged",
+        "audio_path": "audio_data/M4_S1_0083.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "warm",
+        "audio_path": "audio_data/M5_S1_0083.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "thigh",
+        "audio_path": "audio_data/M2_S1_0237.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "weed",
+        "audio_path": "audio_data/F4_S1_0037.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "The museum hires musicians every evening.",
+        "audio_path": "audio_data/M1_S2_0235.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "go",
+        "audio_path": "audio_data/M3_S2_0084.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "trade",
+        "audio_path": "audio_data/F1_S1_0097.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "pat",
+        "audio_path": "audio_data/F1_S1_0009.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "hem",
+        "audio_path": "audio_data/F4_S2_0075.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "fork",
+        "audio_path": "audio_data/F3_S3_0155.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "golf",
+        "audio_path": "audio_data/M1_S2_0231.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "forward",
+        "audio_path": "audio_data/M3_S2_0186.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "feed",
+        "audio_path": "audio_data/F4_S1_0070.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "tip",
+        "audio_path": "audio_data/M4_S1_0122.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "I was conscious all the time.",
+        "audio_path": "audio_data/M4_S2_0156.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "sigh",
+        "audio_path": "audio_data/F4_S2_0064.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "shell",
+        "audio_path": "audio_data/F4_S2_0210.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "beat",
+        "audio_path": "audio_data/M1_S2_0017.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "sentence",
+        "prompt": "You can ride stagecoach.",
+        "audio_path": "audio_data/F3_S3_0105.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "I'm willing to experiment for the first time.",
+        "audio_path": "audio_data/F4_S2_0241.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "trade",
+        "audio_path": "audio_data/M5_S1_0023.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "single",
+        "audio_path": "audio_data/M3_S2_0207.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "right",
+        "audio_path": "audio_data/F1_S1_0112.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "sentence",
+        "prompt": "Aluminum silverware can often be flimsy.",
+        "audio_path": "audio_data/F3_S3_0090.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "I just try to do my best.",
+        "audio_path": "audio_data/F4_S1_0148.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "feed",
+        "audio_path": "audio_data/M3_S2_0030.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "train",
+        "audio_path": "audio_data/M2_S1_0069.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "at",
+        "audio_path": "audio_data/M3_S2_0375.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "sew",
+        "audio_path": "audio_data/F3_S3_0080.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "thigh",
+        "audio_path": "audio_data/M1_S2_0087.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "write",
+        "audio_path": "audio_data/F4_S1_0163.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Day after day some new episode is reported.",
+        "audio_path": "audio_data/F4_S2_0177.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "leak",
+        "audio_path": "audio_data/F4_S2_0184.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "sip",
+        "audio_path": "audio_data/M5_S1_0073.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "jungle",
+        "audio_path": "audio_data/F4_S2_0035.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "him",
+        "audio_path": "audio_data/F3_S3_0208.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "for",
+        "audio_path": "audio_data/M4_S1_0110.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "feed",
+        "audio_path": "audio_data/F1_S1_0115.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "for",
+        "audio_path": "audio_data/M5_S1_0080.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Nothing is as offensive as innocence.",
+        "audio_path": "audio_data/F4_S2_0036.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "She wore warm, fleecy, woolen overalls.",
+        "audio_path": "audio_data/M2_S2_0163.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "If you are losing water, replace it immediately.",
+        "audio_path": "audio_data/M1_S2_0205.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "three",
+        "audio_path": "audio_data/M4_S2_0145.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "select",
+        "audio_path": "audio_data/M4_S2_0251.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "torn",
+        "audio_path": "audio_data/M3_S2_0062.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "stick",
+        "audio_path": "audio_data/M4_S2_0106.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "we're",
+        "audio_path": "audio_data/M2_S1_0163.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "Well, he is nearly ninety three years old",
+        "audio_path": "audio_data/F1_S1_0114.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "area",
+        "audio_path": "audio_data/F4_S1_0167.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "thought",
+        "audio_path": "audio_data/M2_S2_0197.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "meat",
+        "audio_path": "audio_data/F1_S1_0012.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "rate",
+        "audio_path": "audio_data/M1_S1_0060.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "A roll of wire lay near the wall.",
+        "audio_path": "audio_data/M1_S2_0255.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "fat",
+        "audio_path": "audio_data/F4_S2_0188.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "A long, flowing beard clings to his chin,",
+        "audio_path": "audio_data/M3_S2_0115.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "meat",
+        "audio_path": "audio_data/F4_S1_0123.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Except in the winter when the ooze or snow or ice prevents,",
+        "audio_path": "audio_data/M3_S2_0029.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "input/images/kitchen.jpg",
+        "audio_path": "audio_data/M3_S2_0073.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "quebec",
+        "audio_path": "audio_data/M1_S2_0189.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "of",
+        "audio_path": "audio_data/F4_S1_0173.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "sentence",
+        "prompt": "The pair of shoes was new.",
+        "audio_path": "audio_data/F3_S3_0121.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "double",
+        "audio_path": "audio_data/M1_S1_0029.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "droop",
+        "audio_path": "audio_data/M4_S2_0245.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Beg that guard for one gallon of gas.",
+        "audio_path": "audio_data/M3_S2_0410.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "much",
+        "audio_path": "audio_data/M3_S2_0242.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "All the big baseball players get traded.",
+        "audio_path": "audio_data/M4_S2_0208.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "part",
+        "audio_path": "audio_data/M2_S2_0217.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "side",
+        "audio_path": "audio_data/F3_S3_0196.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "It was a good win for us.",
+        "audio_path": "audio_data/M1_S2_0268.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "near",
+        "audio_path": "audio_data/M2_S1_0179.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "cart",
+        "audio_path": "audio_data/M2_S2_0180.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "brought",
+        "audio_path": "audio_data/F4_S2_0102.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "wicked",
+        "audio_path": "audio_data/F4_S2_0219.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "beat",
+        "audio_path": "audio_data/F1_S1_0029.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "relax",
+        "audio_path": "audio_data/M2_S2_0154.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "dart",
+        "audio_path": "audio_data/M1_S2_0233.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "swarm",
+        "audio_path": "audio_data/M4_S1_0097.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "hat",
+        "audio_path": "audio_data/F4_S2_0105.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "trade",
+        "audio_path": "audio_data/M4_S1_0018.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "know",
+        "audio_path": "audio_data/M3_S2_0003.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "rid",
+        "audio_path": "audio_data/F3_S3_0064.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "coupe",
+        "audio_path": "audio_data/F4_S1_0162.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "kitten",
+        "audio_path": "audio_data/M1_S2_0217.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "bat",
+        "audio_path": "audio_data/F4_S1_0160.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "dead",
+        "audio_path": "audio_data/F3_S3_0089.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "trace",
+        "audio_path": "audio_data/F4_S1_0020.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "much",
+        "audio_path": "audio_data/M2_S1_0227.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "spark",
+        "audio_path": "audio_data/F4_S2_0074.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "Twice each day he plays skillfully and with zest upon our small organ.",
+        "audio_path": "audio_data/M2_S1_0092.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "storm",
+        "audio_path": "audio_data/M1_S1_0082.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "beat",
+        "audio_path": "audio_data/M2_S1_0061.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "loop",
+        "audio_path": "audio_data/M2_S1_0132.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "dagger",
+        "audio_path": "audio_data/F4_S1_0122.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "He wrapped the package hastily.",
+        "audio_path": "audio_data/M1_S2_0271.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "They carried me off on the stretcher.",
+        "audio_path": "audio_data/M4_S2_0133.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "trade",
+        "audio_path": "audio_data/M3_S2_0087.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "hill",
+        "audio_path": "audio_data/M2_S2_0183.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "ham",
+        "audio_path": "audio_data/M3_S2_0414.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "car",
+        "audio_path": "audio_data/M5_S1_0102.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "write",
+        "audio_path": "audio_data/M3_S2_0158.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "Everything went real smooth, the sheriff said.",
+        "audio_path": "audio_data/M2_S1_0137.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "yes",
+        "audio_path": "audio_data/F4_S2_0173.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "wish",
+        "audio_path": "audio_data/M3_S2_0122.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "menu",
+        "audio_path": "audio_data/M4_S2_0196.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "sentence",
+        "prompt": "Some hotels are available nearby.",
+        "audio_path": "audio_data/F3_S3_0063.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "The train approached the depot slowly.",
+        "audio_path": "audio_data/M2_S1_0238.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "All the big baseball players get traded.",
+        "audio_path": "audio_data/M2_S1_0169.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "blow",
+        "audio_path": "audio_data/M3_S2_0322.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "feet",
+        "audio_path": "audio_data/M4_S2_0070.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "I scrubbed the floors thoroughly.",
+        "audio_path": "audio_data/M4_S2_0206.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "double",
+        "audio_path": "audio_data/M2_S1_0083.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "witch",
+        "audio_path": "audio_data/F4_S2_0070.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "sigh",
+        "audio_path": "audio_data/F4_S2_0045.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "slip",
+        "audio_path": "audio_data/M2_S1_0146.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "leak",
+        "audio_path": "audio_data/M1_S2_0162.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "bubble",
+        "audio_path": "audio_data/M2_S1_0021.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "jagged",
+        "audio_path": "audio_data/M1_S1_0091.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "feed",
+        "audio_path": "audio_data/M4_S2_0079.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "tip",
+        "audio_path": "audio_data/F4_S1_0035.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "pitting",
+        "audio_path": "audio_data/M4_S2_0289.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "I was conscious all the time.",
+        "audio_path": "audio_data/F4_S2_0005.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Their house is grey and white.",
+        "audio_path": "audio_data/F4_S2_0052.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "One validated acts of school districts.",
+        "audio_path": "audio_data/M4_S2_0153.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "This is a period of transition for me.",
+        "audio_path": "audio_data/M3_S2_0256.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "trait",
+        "audio_path": "audio_data/F1_S1_0133.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "shout",
+        "audio_path": "audio_data/M2_S1_0148.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "slay",
+        "audio_path": "audio_data/M4_S2_0164.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "tread",
+        "audio_path": "audio_data/M3_S2_0408.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "down",
+        "audio_path": "audio_data/M4_S1_0080.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "he slowly takes a short walk in the open air each day.",
+        "audio_path": "audio_data/M4_S1_0064.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "alpha",
+        "audio_path": "audio_data/F1_S1_0087.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "harp",
+        "audio_path": "audio_data/M1_S2_0259.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "coupe",
+        "audio_path": "audio_data/M1_S2_0134.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "loop",
+        "audio_path": "audio_data/M4_S2_0238.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "warm",
+        "audio_path": "audio_data/M2_S1_0088.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "peer",
+        "audio_path": "audio_data/M3_S2_0224.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "area",
+        "audio_path": "audio_data/M3_S2_0148.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "galore",
+        "audio_path": "audio_data/M1_S2_0038.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "echo",
+        "audio_path": "audio_data/M3_S2_0385.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "rave",
+        "audio_path": "audio_data/M5_S1_0034.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "horn",
+        "audio_path": "audio_data/M4_S2_0101.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "sigh",
+        "audio_path": "audio_data/M3_S2_0290.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "go",
+        "audio_path": "audio_data/F4_S1_0021.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "ray",
+        "audio_path": "audio_data/F3_S3_0151.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Why yell or worry over silly items?",
+        "audio_path": "audio_data/M3_S2_0185.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "input/images/kitchen.jpg",
+        "audio_path": "audio_data/M4_S1_0044.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Don't ask me to carry an oily rag like that.",
+        "audio_path": "audio_data/M3_S2_0117.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "swarm",
+        "audio_path": "audio_data/M4_S2_0087.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "right",
+        "audio_path": "audio_data/M1_S1_0068.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "This was easy for us.",
+        "audio_path": "audio_data/M4_S2_0253.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "sprinkle",
+        "audio_path": "audio_data/M1_S2_0108.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "bug",
+        "audio_path": "audio_data/M1_S1_0030.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "sip",
+        "audio_path": "audio_data/M5_S1_0069.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "I was conscious all the time.",
+        "audio_path": "audio_data/M3_S2_0179.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "beta",
+        "audio_path": "audio_data/M3_S2_0056.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "rave",
+        "audio_path": "audio_data/M1_S1_0075.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "kilo",
+        "audio_path": "audio_data/M2_S2_0115.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "I looked up and noticed two old men.",
+        "audio_path": "audio_data/M2_S1_0215.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "It was a good win for us.",
+        "audio_path": "audio_data/F4_S2_0118.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "trade",
+        "audio_path": "audio_data/M4_S2_0041.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "tear [as in \"tear in my eye\"]",
+        "audio_path": "audio_data/F4_S1_0161.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "ticker",
+        "audio_path": "audio_data/F4_S2_0213.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "I tried to tell people in the community.",
+        "audio_path": "audio_data/F4_S2_0028.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "eight",
+        "audio_path": "audio_data/M2_S2_0144.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "left",
+        "audio_path": "audio_data/F3_S3_0145.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "heart",
+        "audio_path": "audio_data/M3_S2_0371.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "This was easy for us.",
+        "audio_path": "audio_data/M3_S2_0168.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "yet he still thinks as swiftly as ever.",
+        "audio_path": "audio_data/M1_S1_0026.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "tear [as in \"tear up that paper\"]",
+        "audio_path": "audio_data/M1_S2_0007.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Alfalfa is healthy for you.",
+        "audio_path": "audio_data/M2_S2_0190.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "He will allow a rare lie.",
+        "audio_path": "audio_data/M3_S2_0165.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "heart",
+        "audio_path": "audio_data/F3_S3_0094.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "The quick brown fox jumps over the lazy dog.",
+        "audio_path": "audio_data/F1_S1_0030.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "weed",
+        "audio_path": "audio_data/M1_S1_0097.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "mike",
+        "audio_path": "audio_data/F4_S2_0168.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "chop",
+        "audio_path": "audio_data/F4_S2_0201.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "tear [as in \"tear in my eye\"]",
+        "audio_path": "audio_data/M4_S2_0211.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "wicked",
+        "audio_path": "audio_data/M2_S2_0233.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "hill",
+        "audio_path": "audio_data/M3_S2_0267.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "zero",
+        "audio_path": "audio_data/M1_S2_0176.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "mush",
+        "audio_path": "audio_data/M3_S2_0265.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "seven",
+        "audio_path": "audio_data/M3_S2_0341.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "stubble",
+        "audio_path": "audio_data/F1_S1_0099.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "lock",
+        "audio_path": "audio_data/F3_S3_0152.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "tear [as in \"tear up that paper\"]",
+        "audio_path": "audio_data/M3_S2_0052.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "prior",
+        "audio_path": "audio_data/F4_S2_0006.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "papa",
+        "audio_path": "audio_data/F4_S2_0130.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Aluminum silverware can often be flimsy.",
+        "audio_path": "audio_data/M1_S2_0188.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "mere",
+        "audio_path": "audio_data/M3_S2_0177.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "I can read",
+        "audio_path": "audio_data/M2_S1_0103.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "She had your dark suit in greasy wash water all year.",
+        "audio_path": "audio_data/M5_S1_0104.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "sip",
+        "audio_path": "audio_data/M4_S1_0111.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "jagged",
+        "audio_path": "audio_data/M5_S1_0097.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "heart",
+        "audio_path": "audio_data/F4_S2_0178.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "knitting",
+        "audio_path": "audio_data/M1_S2_0266.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "right",
+        "audio_path": "audio_data/F4_S2_0240.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "He further proposed grants of an unspecified sum for experimental hospitals.",
+        "audio_path": "audio_data/M2_S2_0202.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "no",
+        "audio_path": "audio_data/M2_S1_0143.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "now",
+        "audio_path": "audio_data/M3_S2_0002.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "down",
+        "audio_path": "audio_data/M5_S1_0035.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Alfalfa is healthy for you.",
+        "audio_path": "audio_data/F4_S2_0079.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "delta",
+        "audio_path": "audio_data/M1_S2_0119.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "I tried to tell people in the community.",
+        "audio_path": "audio_data/M2_S1_0130.wav"
+    },
+    {
+        "gender": "F",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "hair",
+        "audio_path": "audio_data/F1_S1_0080.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "trait",
+        "audio_path": "audio_data/M5_S1_0090.wav"
+    },
+    {
+        "gender": "M",
+        "person": 5,
+        "session": 1,
+        "type": "word",
+        "prompt": "trouble",
+        "audio_path": "audio_data/M5_S1_0076.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "sentence",
+        "prompt": "It was only",
+        "audio_path": "audio_data/F3_S3_0083.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "Students watched as he got out.",
+        "audio_path": "audio_data/M3_S2_0320.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "deer",
+        "audio_path": "audio_data/F4_S1_0151.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "the",
+        "audio_path": "audio_data/M3_S2_0114.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "white",
+        "audio_path": "audio_data/M3_S2_0167.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "spit",
+        "audio_path": "audio_data/M3_S2_0280.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "root",
+        "audio_path": "audio_data/M3_S2_0197.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "take",
+        "audio_path": "audio_data/M2_S2_0127.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "he dresses himself in an ancient black frock coat,",
+        "audio_path": "audio_data/M1_S1_0019.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "sell",
+        "audio_path": "audio_data/F4_S2_0082.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "Are your grades higher or lower than Nancy's?",
+        "audio_path": "audio_data/M2_S1_0150.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 1,
+        "type": "word",
+        "prompt": "go",
+        "audio_path": "audio_data/M1_S1_0073.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "lip",
+        "audio_path": "audio_data/M4_S2_0167.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "slip",
+        "audio_path": "audio_data/M4_S2_0204.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "word",
+        "prompt": "chop",
+        "audio_path": "audio_data/F3_S3_0081.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "trouble",
+        "audio_path": "audio_data/M4_S2_0069.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "storm",
+        "audio_path": "audio_data/M3_S2_0089.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "The owners regularly look for plumbing leaks.",
+        "audio_path": "audio_data/M2_S2_0235.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "A long, flowing beard clings to his chin,",
+        "audio_path": "audio_data/M4_S1_0082.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "We have often urged him to walk more and smoke less,",
+        "audio_path": "audio_data/F4_S1_0112.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "fat",
+        "audio_path": "audio_data/M1_S2_0230.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "cycle",
+        "audio_path": "audio_data/M2_S1_0123.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 1,
+        "type": "word",
+        "prompt": "ship",
+        "audio_path": "audio_data/M2_S1_0018.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "barn",
+        "audio_path": "audio_data/M3_S2_0258.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 1,
+        "type": "sentence",
+        "prompt": "When when",
+        "audio_path": "audio_data/M4_S1_0093.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "golf",
+        "audio_path": "audio_data/M3_S2_0356.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "The dolphins swam around our boat.",
+        "audio_path": "audio_data/M1_S2_0174.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "we're",
+        "audio_path": "audio_data/M4_S2_0150.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "raid",
+        "audio_path": "audio_data/M4_S2_0107.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "sentence",
+        "prompt": "You'd be better off taking a cold shower.",
+        "audio_path": "audio_data/M1_S2_0109.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "sentence",
+        "prompt": "He took me out one day.",
+        "audio_path": "audio_data/F3_S3_0052.wav"
+    },
+    {
+        "gender": "F",
+        "person": 3,
+        "session": 3,
+        "type": "sentence",
+        "prompt": "He asked you for a loan.",
+        "audio_path": "audio_data/F3_S3_0044.wav"
+    },
+    {
+        "gender": "M",
+        "person": 4,
+        "session": 2,
+        "type": "word",
+        "prompt": "of",
+        "audio_path": "audio_data/M4_S2_0214.wav"
+    },
+    {
+        "gender": "F",
+        "person": 4,
+        "session": 1,
+        "type": "word",
+        "prompt": "slip",
+        "audio_path": "audio_data/F4_S1_0144.wav"
+    },
+    {
+        "gender": "M",
+        "person": 1,
+        "session": 2,
+        "type": "word",
+        "prompt": "barn",
+        "audio_path": "audio_data/M1_S2_0158.wav"
+    },
+    {
+        "gender": "M",
+        "person": 2,
+        "session": 2,
+        "type": "word",
+        "prompt": "sitter",
+        "audio_path": "audio_data/M2_S2_0240.wav"
+    },
+    {
+        "gender": "M",
+        "person": 3,
+        "session": 2,
+        "type": "word",
+        "prompt": "side",
+        "audio_path": "audio_data/M3_S2_0354.wav"
+    }
+]

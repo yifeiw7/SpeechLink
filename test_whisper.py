@@ -9,7 +9,7 @@ device = "cuda:0" if torch.cuda.is_available() else "cpu"
 torch_dtype = torch.float16 if torch.cuda.is_available() else torch.float32
 
 # Model identifier for Whisper small model
-model_id = "openai/whisper-medium"
+model_id = "openai/whisper-small"
 
 # Load the model with specific options for memory and device efficiency
 model = AutoModelForSpeechSeq2Seq.from_pretrained(
@@ -70,23 +70,8 @@ def evaluate_wav_and_txt(wav_file, txt_file):
         else:
             raise e
 
-# Directory paths
-# F01 S1
-# wav_dir = "F/F01/Session1/wav_headMic"
-# txt_dir = "F/F01/Session1/prompts"
 
-# F03 S3
-wav_dir = "F/F03/Session3/wav_headMic"
-txt_dir = "F/F03/Session3/prompts"
-
-# F04 S1
-# wav_dir = "F/F04/Session1/wav_arrayMic"
-# txt_dir = "F/F04/Session1/prompts"
-
-# F04 S2
-# wav_dir = "F/F04/Session2/wav_arrayMic"
-# txt_dir = "F/F04/Session2/prompts"
-
+wav_dir = ""
 
 # List of .wav files to evaluate
 wav_files = [f for f in os.listdir(wav_dir) if f.endswith('.wav')]
