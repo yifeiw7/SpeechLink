@@ -1,1 +1,3 @@
 # SpeechLink
+
+Elderly speech recognition is crucial for improving technology accessibility, especially for those with age-related speech changes or disorders like dysarthria. While automatic speech recognition (ASR) systems are increasingly common, they often struggle with the slower speech, altered pronunciation, and reduced clarity typical of seniors, leading to frustration and isolation. Developing machine learning models specifically for dysarthric speech can enhance communication between seniors and others, helping them better interact with digital devices and maintain social connections. This project aims to create more inclusive technology, improving the well-being and social engagement of elderly individuals.
