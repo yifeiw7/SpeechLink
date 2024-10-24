@@ -30,10 +30,10 @@ def count_fields(data):
 # Example usage
 def main():
     # Load the data (use appropriate file paths)
-    data = load_json('data.json')
-    train_data = load_json('train_data.json')
-    val_data = load_json('val_data.json')
-    test_data = load_json('test_data.json')
+    data = load_json('data/data.json')
+    train_data = load_json('data/train_data.json')
+    val_data = load_json('data/val_data.json')
+    test_data = load_json('data/test_data.json')
 
     # Get counts for each dataset
     data_type_counts = count_fields(data)

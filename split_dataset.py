@@ -41,16 +41,16 @@ def split_data(data, train_size=0.7, val_size=0.15, test_size=0.15):
 
 def main():
     # Load the data
-    filepath = 'data.json'  # Replace with the path to your JSON file
+    filepath = 'data/data.json'  # Replace with the path to your JSON file
     data = load_json(filepath)
     
     # Split the data
     train_data, val_data, test_data = split_data(data)
     
     # Save the results to separate JSON files
-    save_json(train_data, 'train_data.json')
-    save_json(val_data, 'val_data.json')
-    save_json(test_data, 'test_data.json')
+    save_json(train_data, 'data/train_data.json')
+    save_json(val_data, 'data/val_data.json')
+    save_json(test_data, 'data/test_data.json')
 
     print(f"Training data: {len(train_data)} samples")
     print(f"Validation data: {len(val_data)} samples")
