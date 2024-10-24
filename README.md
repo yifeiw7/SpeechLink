@@ -2,10 +2,10 @@
 
 Elderly speech recognition is crucial for improving technology accessibility, especially for those with age-related speech changes or disorders like dysarthria. While automatic speech recognition (ASR) systems are increasingly common, they often struggle with the slower speech, altered pronunciation, and reduced clarity typical of seniors, leading to frustration and isolation. Developing machine learning models specifically for dysarthric speech can enhance communication between seniors and others, helping them better interact with digital devices and maintain social connections. This project aims to create more inclusive technology, improving the well-being and social engagement of elderly individuals.
 
-## Data  
+## Data Processing
 We sourced the data from the public [TORGO Database](https://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html) by University of Toronto. In training this model, only word and sentence prompts are used. The data is split by 70%, 15%, 15% evenly across all fields, summarized in the table below. 
 
-## Data Distribution Summary
+### Data Distribution Summary
 
 | **Category** | **All Data**                     | **Training**                     | **Validation**                   | **Testing**                      |
 |--------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
@@ -18,4 +18,11 @@ We sourced the data from the public [TORGO Database](https://www.cs.toronto.edu/
 ## Base Model 
 The base model is selected as the SOTA text-to-speech model [Whisper by OpenAI](https://github.com/openai/whisper). 
 
-## 
+
+## Finetuning 
+
+
+## Evaluation 
+
+
+## User Interface
