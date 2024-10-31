@@ -1,23 +1,27 @@
 import argparse
+import json
 from datasets import Dataset, Audio, Value
 
+# Argument parsing
 parser = argparse.ArgumentParser(description='Preliminary data preparation script before Whisper Fine-tuning.')
-parser.add_argument('--source_data_dir', type=str, required=True, default=False, help='Path to the directory containing the audio_paths and text files.')
+parser.add_argument('--source_data_file', type=str, required=True, help='Path to the JSON file containing the audio paths.')
 parser.add_argument('--output_data_dir', type=str, required=False, default='op_data_dir', help='Output data directory path.')
 
 args = parser.parse_args()
 
-scp_entries = open(f"{args.source_data_dir}/audio_paths", 'r').readlines()
-txt_entries = open(f"{args.source_data_dir}/text", 'r').readlines()
+# Read the JSON file
+with open(args.source_data_file, 'r') as f:
+    data = json.load(f)
 
-if len(scp_entries) == len(txt_entries):
-    audio_dataset = Dataset.from_dict({"audio": [audio_path.split()[1].strip() for audio_path in scp_entries],
-                    "sentence": [' '.join(text_line.split()[1:]).strip() for text_line in txt_entries]})
+# Extract audio paths
+audio_paths = [entry['audio_path'] for entry in data]
 
-    audio_dataset = audio_dataset.cast_column("audio", Audio(sampling_rate=16_000))
-    audio_dataset = audio_dataset.cast_column("sentence", Value("string"))
-    audio_dataset.save_to_disk(args.output_data_dir)
-    print('Data preparation done')
+# Create a dataset
+audio_dataset = Dataset.from_dict({"audio": audio_paths})
 
-else:
-    print('Please re-check the audio_paths and text files. They seem to have a mismatch in terms of the number of entries. Both these files should be carrying the same number of lines.')
+# Cast columns to appropriate types
+audio_dataset = audio_dataset.cast_column("audio", Audio(sampling_rate=16_000))
+
+# Save the dataset to disk
+audio_dataset.save_to_disk(args.output_data_dir)
+print('Data preparation done')
