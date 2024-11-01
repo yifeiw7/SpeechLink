@@ -3,7 +3,7 @@ import argparse
 import evaluate
 from dataclasses import dataclass
 from typing import Any, Dict, List, Union
-from datasets import DatasetDict, Audio, load_from_disk, concatenate_datasets
+from datasets import DatasetDict, Audio, load_from_disk, concatenate_datasets, Dataset
 from transformers.models.whisper.english_normalizer import BasicTextNormalizer
 from transformers import WhisperFeatureExtractor, WhisperTokenizer, WhisperProcessor, WhisperForConditionalGeneration, Seq2SeqTrainingArguments, Seq2SeqTrainer
 
@@ -21,7 +21,7 @@ parser.add_argument(
     '--language', 
     type=str, 
     required=False, 
-    default='Hindi', 
+    default='English', 
     help='Language the model is being adapted to in Camel case.'
 )
 parser.add_argument(
@@ -42,7 +42,7 @@ parser.add_argument(
     '--train_strategy', 
     type=str, 
     required=False, 
-    default='steps', 
+    default='epoch', 
     help='Training strategy. Choose between steps and epoch.'
 )
 parser.add_argument(
@@ -169,14 +169,58 @@ def load_custom_dataset(split):
     ds = []
     if split == 'train':
         for dset in args.train_datasets:
-            ds.append(load_from_disk(dset))
+            #ds.append(load_from_disk(dset))
+            ds.append(Dataset.from_file(dset))
     if split == 'eval':
         for dset in args.eval_datasets:
-            ds.append(load_from_disk(dset))
+            #ds.append(load_from_disk(dset))
+            ds.append(Dataset.from_file(dset))
 
     ds_to_return = concatenate_datasets(ds)
     ds_to_return = ds_to_return.shuffle(seed=22)
     return ds_to_return
+'''
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+def prepare_dataset(batch):
+    try:
+        # Log the audio file path
+        logger.info(f"Processing audio file: {batch['audio']['path']}")
+
+        # Load and process the audio file
+        audio = batch["audio"]
+
+        # Compute log-Mel input features from input audio array 
+        batch["input_features"] = processor.feature_extractor(audio["array"], sampling_rate=audio["sampling_rate"]).input_features[0]
+        # Compute input length of audio sample in seconds
+        batch["input_length"] = len(audio["array"]) / audio["sampling_rate"]
+
+        # Optional pre-processing steps
+        transcription = batch["sentence"]
+        if do_lower_case:
+            transcription = transcription.lower()
+        if do_remove_punctuation:
+            transcription = normalizer(transcription).strip()
+
+        # Encode target text to label ids
+        batch["labels"] = processor.tokenizer(transcription).input_ids
+        return batch
+    except Exception as e:
+        logger.error(f"Error processing audio file: {batch['audio']['path']}")
+        logger.error(e)
+        raise
+
+max_label_length = model.config.max_length
+min_input_length = 0.0
+max_input_length = 30.0
+
+def is_in_length_range(length, labels):
+    return min_input_length < length < max_input_length and 0 < len(labels) < max_label_length
+'''
 
 def prepare_dataset(batch):
     # load and (possibly) resample audio data to 16kHz
@@ -203,7 +247,6 @@ min_input_length = 0.0
 max_input_length = 30.0
 def is_in_length_range(length, labels):
     return min_input_length < length < max_input_length and 0 < len(labels) < max_label_length
-
 
 print('DATASET PREPARATION IN PROGRESS...')
 raw_dataset = DatasetDict()
@@ -282,7 +325,7 @@ if args.train_strategy == 'epoch':
         learning_rate=args.learning_rate,
         warmup_steps=args.warmup,
         gradient_checkpointing=gradient_checkpointing,
-        fp16=True,
+        fp16=False,#True
         evaluation_strategy="epoch",
         save_strategy="epoch",
         num_train_epochs=args.num_epochs,
@@ -295,7 +338,7 @@ if args.train_strategy == 'epoch':
         load_best_model_at_end=True,
         metric_for_best_model="wer",
         greater_is_better=False,
-        optim="adamw_bnb_8bit",
+        optim="adamw_torch", # "adamw_bnb_8bit",
         resume_from_checkpoint=args.resume_from_ckpt,
     )
 
@@ -307,7 +350,7 @@ elif args.train_strategy == 'steps':
         learning_rate=args.learning_rate,
         warmup_steps=args.warmup,
         gradient_checkpointing=gradient_checkpointing,
-        fp16=True,
+        fp16=False, #True
         evaluation_strategy="steps",
         eval_steps=1000,
         save_strategy="steps",
@@ -322,9 +365,12 @@ elif args.train_strategy == 'steps':
         load_best_model_at_end=True,
         metric_for_best_model="wer",
         greater_is_better=False,
-        optim="adamw_bnb_8bit",
+        optim="adamw_torch", # "adamw_bnb_8bit",
         resume_from_checkpoint=args.resume_from_ckpt,
     )
+
+device = torch.device("cpu")
+model = WhisperForConditionalGeneration.from_pretrained(args.model_name).to(device)
 
 trainer = Seq2SeqTrainer(
     args=training_args,
@@ -332,8 +378,9 @@ trainer = Seq2SeqTrainer(
     train_dataset=raw_dataset["train"],
     eval_dataset=raw_dataset["eval"],
     data_collator=data_collator,
+    processing_class=processor, #
     compute_metrics=compute_metrics,
-    tokenizer=processor.feature_extractor,
+    #tokenizer=processor.feature_extractor,
 )
 
 processor.save_pretrained(training_args.output_dir)
