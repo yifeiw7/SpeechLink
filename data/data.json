@@ -4,7 +4,7 @@
         "person": 1,
         "session": 1,
         "type": "word",
-        "prompt": "tear [as in tear up that paper]",
+        "prompt": "tear",
         "audio_path": "audio_data/F1_S1_0007.wav"
     },
     {

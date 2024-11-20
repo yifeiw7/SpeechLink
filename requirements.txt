@@ -1,0 +1,13 @@
+ctranslate2==4.5.0
+datasets==3.1.0
+evaluate==0.4.3
+Flask==3.1.0
+flask_cors==5.0.0
+jiwer==3.0.5
+nltk==3.9.1
+pydub==0.25.1
+scikit_learn==1.5.2
+soundfile==0.12.1
+torch==2.5.1
+torchaudio==2.5.1
+transformers==4.46.3
